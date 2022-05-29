@@ -8,3 +8,4 @@ Ahora berserker puede hacer uso de furia sangrienta, la cual le permite entrar e
 es inmune a cualquier tipo de miedo y este experimenta un aumento de daño equivalente al 1% (Por cada item glorioso equipado) + 5% por cada 20% de vida perdida.
 
 ### Cambios nuevos desde GITHUB
+## Cambios Nuevos desde mi local
